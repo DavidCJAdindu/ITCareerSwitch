@@ -1,0 +1,12 @@
+
+/* targeting class */
+.lists {
+    background-color: aqua;
+}
+
+/* targeting id */
+#description {
+    font-weight: bold;
+}
+
+
